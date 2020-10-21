@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-unschool/static/css/main.156f604f.chunk.css",
+    "main.js": "/react-portfolio-unschool/static/js/main.5099f86a.chunk.js",
+    "main.js.map": "/react-portfolio-unschool/static/js/main.5099f86a.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-unschool/static/js/runtime-main.18f84a3a.js",
+    "runtime-main.js.map": "/react-portfolio-unschool/static/js/runtime-main.18f84a3a.js.map",
+    "static/css/2.2a86faee.chunk.css": "/react-portfolio-unschool/static/css/2.2a86faee.chunk.css",
+    "static/js/2.8d28bb5c.chunk.js": "/react-portfolio-unschool/static/js/2.8d28bb5c.chunk.js",
+    "static/js/2.8d28bb5c.chunk.js.map": "/react-portfolio-unschool/static/js/2.8d28bb5c.chunk.js.map",
+    "index.html": "/react-portfolio-unschool/index.html",
+    "precache-manifest.1b50c7a508586784ebfa700b7e098789.js": "/react-portfolio-unschool/precache-manifest.1b50c7a508586784ebfa700b7e098789.js",
+    "service-worker.js": "/react-portfolio-unschool/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/react-portfolio-unschool/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.156f604f.chunk.css.map": "/react-portfolio-unschool/static/css/main.156f604f.chunk.css.map",
+    "static/js/2.8d28bb5c.chunk.js.LICENSE.txt": "/react-portfolio-unschool/static/js/2.8d28bb5c.chunk.js.LICENSE.txt",
+    "static/media/bootstrap4.png": "/react-portfolio-unschool/static/media/bootstrap4.4a6ca9de.png",
+    "static/media/css3.png": "/react-portfolio-unschool/static/media/css3.436cff5f.png",
+    "static/media/flask.png": "/react-portfolio-unschool/static/media/flask.0726a0c3.png",
+    "static/media/html5.png": "/react-portfolio-unschool/static/media/html5.c3d882eb.png",
+    "static/media/javascript.png": "/react-portfolio-unschool/static/media/javascript.82c50a10.png",
+    "static/media/myphoto.png": "/react-portfolio-unschool/static/media/myphoto.ffd01a3c.png",
+    "static/media/mysql.png": "/react-portfolio-unschool/static/media/mysql.be2cace3.png",
+    "static/media/project2.jpg": "/react-portfolio-unschool/static/media/project2.2f471859.jpg",
+    "static/media/project3.jpg": "/react-portfolio-unschool/static/media/project3.2054ba04.jpg",
+    "static/media/python.png": "/react-portfolio-unschool/static/media/python.aa172609.png",
+    "static/media/react.png": "/react-portfolio-unschool/static/media/react.69d69642.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18f84a3a.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.8d28bb5c.chunk.js",
+    "static/css/main.156f604f.chunk.css",
+    "static/js/main.5099f86a.chunk.js"
+  ]
+}
